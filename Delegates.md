@@ -1,4 +1,4 @@
-##Delegates
+## Delegates
 
 Delegates in Objective-C are a way to allow one object to communicate with another object without having to know about the other object's implementation. This is done by using a protocol, which is a contract that defines the methods that the delegating object must implement.
 
