@@ -1,3 +1,5 @@
+##Delegates
+
 Delegates in Objective-C are a way to allow one object to communicate with another object without having to know about the other object's implementation. This is done by using a protocol, which is a contract that defines the methods that the delegating object must implement.
 
 To use delegates in Objective-C, you first need to create a protocol. The protocol should define the methods that the delegating object must implement. Once you have created the protocol, you need to declare the delegating object as a delegate of the protocol. You can then set the delegate of the delegating object to another object.
